@@ -39,6 +39,13 @@ main	proc	far
 	main	endp
 
 
+;answers for the above data
+;sum1=18h
+;sub1=0ah
+;mul1=77h
+;div1=02h
+;remain=03h
+
 
 ;-----------------------------------------------------------------------------------
 
